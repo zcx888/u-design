@@ -7,6 +7,8 @@ description: "我是副标题"
 
 用于标记、分类和选择的小标签。
 
+
+
 ## 基本构成
 ![12](/Users/kongzhanghao/Desktop/12.png)
 
@@ -29,19 +31,19 @@ description: "我是副标题"
 
 ## 基本样式
 ### 是否可用
-1、水平线：
+1、纯文本标签
 
-仅对行进行分割，列则通过间距与对齐的方式进行视觉上的分割，可减少整个网格的视觉噪音，便于阅读。
+2、纯图标标签
 
-![19](/Users/kongzhanghao/Desktop/19.png)
+3、文本+图标
 
-![18](/Users/kongzhanghao/Desktop/18.png)
+4、可关闭的标签
 
-![17](/Users/kongzhanghao/Desktop/17.png)
+5、禁用标签
 
-![16](/Users/kongzhanghao/Desktop/16.png)
+![16](../../../images/zcx/16.png)![17](../../../images/zcx/17.png)![15](../../../images/zcx/15.png)![19](../../../../../../../Desktop/19.png)![18](../../../images/zcx/18.png)
 
-![15](/Users/kongzhanghao/Desktop/15.png)
+
 
 
 
@@ -53,31 +55,23 @@ description: "我是副标题"
 ## 设计说明
 ### 状态
 
-在复杂的表格中，由于数据量较多，并且数据有层级关系，所以会对数据表格进行分层处理，优先展示第一层级的数据内容，将次层级的数据隐藏起来，用户点击后再展示。
+系统预设以下四种状态：正常、成功、警告、报错。如果不能满足场景需求，提供更多的预设颜色选择，并支持完全自定义。
 
 ![20](/Users/kongzhanghao/Desktop/20.png)
 
 
 
+### 紧凑型布局
+
+用于展示一组标签。
+
+![30](../../../images/zcx/30.png)
 
 
 
 
-## 常见问题
-
-### 文字溢出
-
-有时候宽度不够，文字会溢出，则需要悬停时出现完整的字段名称。
 
 
-
-
-## 主题
-
-| 内容 | 值           | 默认值  |
-| :--- | :----------- | :------ |
-| icon | icon/nothing | nothing |
-| icon | icon/nothing | nothing |
 
 
 ## 相关文档
