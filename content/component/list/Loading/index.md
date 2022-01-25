@@ -46,5 +46,4 @@ U-Design默认文案为「Loading」。
 
 ## 相关文档
 
-1. [相关文档1](https://www.ucloud.cn)
-2. [相关文档2](https://www.ucloud.cn)
+1. [Progress 进度条](https://www.ucloud.cn)
